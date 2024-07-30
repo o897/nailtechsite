@@ -1,0 +1,11 @@
+POST http://localhost:3001/tlamis/book HTTP/1.1
+Content-Type: application/json 
+
+{
+    "username": "Orapeleng Mathebula",
+    "email": "pele@mail.com",
+    "phone": "0781561265",
+    "date": "20/06/2024",
+    "messages": "Booking for an appointment",
+    "services": ["nail", "you", "are"]
+}
