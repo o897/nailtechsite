@@ -15,7 +15,7 @@ import dayjs from "dayjs";
 function fakeFetch(date, { signal }) {
   return new Promise((resolve, reject) => {
     const timeout = setTimeout(() => {
-      const daysToHighlight = ["2024-08-01", "2024-09-02", "2024-08-04"];
+      const daysToHighlight = ["2025-03-21", "2025-03-22", "2025-03-24"];
       resolve({ daysToHighlight });
     }, 500);
 
