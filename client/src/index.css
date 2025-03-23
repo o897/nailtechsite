@@ -215,7 +215,7 @@
     position: absolute;
     background-color: initial;
     top: 57vh;
-    border: 2px solid black;
+    border: 4px solid black;
     margin: auto;
     left: 10vw;
     right: 10vw;
@@ -407,8 +407,7 @@
     margin-bottom: 23px;
     position: -webkit-sticky; /* Safari */
     position: sticky;
-    /* top: 0; */
-    height: 45px;
+    height: 50px;
   }
   .angle-icon {
     margin: 0 25px;
