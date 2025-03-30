@@ -5,12 +5,7 @@ import pedicureImg from "../assets/services/krbhome.jpg";
 import acrylicImg from "../assets/services/acrylic.jpg";
 import { images } from "../data";
 
-import {
-  faInstagram,
-  faTiktok,
-  faYoutube,
-  faWhatsapp,
-} from "@fortawesome/free-brands-svg-icons";
+import {faInstagram,faTiktok,faYoutube,faWhatsapp,} from "@fortawesome/free-brands-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Link } from "react-router-dom";
 import "./../assets/home.jpg";

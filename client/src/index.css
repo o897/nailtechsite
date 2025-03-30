@@ -155,6 +155,11 @@
     padding-top: 5px;
   }
 
+  .nav-img {
+    height: 30px;
+    width: 120px;
+  }
+
   /* End Navar */
 
   /* Book btn */
@@ -213,15 +218,15 @@
     width: 245px;
     height: 55px;
     position: absolute;
-    background-color: initial;
+    background-color: transparent;
     top: 57vh;
-    border: 4px solid black;
+    border: 2px solid black;
     margin: auto;
     left: 10vw;
     right: 10vw;
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
-    font-weight: 500;
+    font-weight: 600;
     font-style: normal;
     margin-top: 15px;
   }
